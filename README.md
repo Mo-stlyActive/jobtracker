@@ -2,7 +2,8 @@
 
 A modern, feature-rich job application tracking system built with Next.js, React, and TypeScript. Track your job applications, manage interviews, and analyze your job search progress with powerful analytics and export capabilities.
 
-![JobTracker Screenshot](https://via.placeholder.com/800x400/3b82f6/ffffff?text=JobTracker+Screenshot)
+![JobTracker Screenshot](screen1.png)
+![JobTracker Screenshot](screen2.png)
 
 ## ✨ Features
 
