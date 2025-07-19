@@ -1,0 +1,28 @@
+#!/bin/bash
+
+echo "🚀 Starting JobTracker Development Server..."
+echo ""
+echo "📋 JobTracker - Shareable Job Application Tracking System"
+echo "Built with Next.js 15, React 19, TypeScript, and Tailwind CSS"
+echo ""
+echo "🔗 Local URL: http://localhost:3000"
+echo "📱 Network URL: http://192.168.2.10:3000"
+echo ""
+echo "✨ Features:"
+echo "   - 10 fictional job applications with realistic data"
+echo "   - Advanced search and filtering"
+echo "   - Analytics dashboard with charts"
+echo "   - Timeline view"
+echo "   - Dark/Light theme toggle"
+echo "   - PWA support (installable as app)"
+echo "   - Export functionality (JSON/CSV)"
+echo "   - Fully responsive design"
+echo "   - Accessibility compliant"
+echo ""
+echo "💡 The application loads sample data automatically."
+echo "   All personal information has been sanitized for public sharing."
+echo ""
+echo "🛑 Press Ctrl+C to stop the server"
+echo ""
+
+npm run dev
